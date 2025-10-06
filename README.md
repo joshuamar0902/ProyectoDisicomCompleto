@@ -27,7 +27,6 @@ Este proyecto es una aplicación web desarrollada en Django para la visualizaci�
     * ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
     * ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
     * ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-    * `ApexCharts.js` / `Chart.js` *(o la librería de gráficas que uses)*
 * **Comunicación PLC:**
     * `python-snap7`
 * **Base de Datos:**
@@ -102,6 +101,5 @@ Sigue estos pasos para ejecutar el proyecto en tu máquina local.
 
 ## 👤 Autor
 
-* **Joshua Mar**
+* **Joshua Marín**
 * **GitHub:** [@joshuamar0902](https://github.com/joshuamar0902)
-* **LinkedIn:** `[Enlace a tu perfil de LinkedIn (Opcional)]`
