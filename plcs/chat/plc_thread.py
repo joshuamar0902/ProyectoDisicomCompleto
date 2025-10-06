@@ -43,7 +43,7 @@ def read_plc_data_continuously():
             async_to_sync(channel_layer.group_send)(
                 'plc_data',
                 {
-                    'type': 'plc.data.update',
+                    'type': 'plc_data_update',
                     'data': current_values,
                 }
             )
